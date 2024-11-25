@@ -1,0 +1,32 @@
+[INFO ] 2024-11-22 11:53:35.972 [main] MyStoreV1 - site opened
+[INFO ] 2024-11-22 11:53:38.074 [main] MyStoreV1 - sign in clicked
+[INFO ] 2024-11-22 11:53:38.297 [main] MyStoreV1 - email entered
+[INFO ] 2024-11-22 11:53:38.448 [main] MyStoreV1 - passcod entered
+[INFO ] 2024-11-22 11:53:43.011 [main] MyStoreV1 - signin clicked
+[INFO ] 2024-11-22 11:53:46.655 [main] MyStoreV1 - user name verified
+[INFO ] 2024-11-22 11:53:49.072 [main] MyStoreV1 - clicked on sign out...
+[INFO ] 2024-11-22 11:53:49.072 [main] MyStoreV1 - ...........end of the test case...
+[INFO ] 2024-11-23 09:00:33.907 [main] MyStoreV1 - site opened
+[INFO ] 2024-11-23 09:00:39.524 [main] MyStoreV1 - sign in clicked
+[INFO ] 2024-11-23 09:00:40.384 [main] MyStoreV1 - email entered
+[INFO ] 2024-11-23 09:00:40.539 [main] MyStoreV1 - passcod entered
+[INFO ] 2024-11-23 09:00:42.440 [main] MyStoreV1 - signin clicked
+[INFO ] 2024-11-23 09:00:43.358 [main] MyStoreV1 - user name verified
+[INFO ] 2024-11-23 09:00:44.955 [main] MyStoreV1 - clicked on sign out...
+[INFO ] 2024-11-23 09:00:44.956 [main] MyStoreV1 - ...........end of the test case...
+[INFO ] 2024-11-23 11:26:04.827 [main] MyStoreV1 - site opened
+[INFO ] 2024-11-23 11:26:07.511 [main] MyStoreV1 - sign in clicked
+[INFO ] 2024-11-23 11:26:07.974 [main] MyStoreV1 - email entered
+[INFO ] 2024-11-23 11:26:08.110 [main] MyStoreV1 - passcod entered
+[INFO ] 2024-11-23 11:26:10.050 [main] MyStoreV1 - signin clicked
+[INFO ] 2024-11-23 11:26:10.595 [main] MyStoreV1 - user name verified
+[INFO ] 2024-11-23 11:26:12.178 [main] MyStoreV1 - clicked on sign out...
+[INFO ] 2024-11-23 11:26:12.180 [main] MyStoreV1 - ...........end of the test case...
+[INFO ] 2024-11-25 13:21:12.397 [main] MyStoreV1 - site opened
+[INFO ] 2024-11-25 13:21:16.511 [main] MyStoreV1 - sign in clicked
+[INFO ] 2024-11-25 13:21:17.576 [main] MyStoreV1 - email entered
+[INFO ] 2024-11-25 13:21:17.834 [main] MyStoreV1 - passcod entered
+[INFO ] 2024-11-25 13:21:19.927 [main] MyStoreV1 - signin clicked
+[INFO ] 2024-11-25 13:21:21.383 [main] MyStoreV1 - user name verified
+[INFO ] 2024-11-25 13:21:23.571 [main] MyStoreV1 - clicked on sign out...
+[INFO ] 2024-11-25 13:21:23.572 [main] MyStoreV1 - ...........end of the test case...
